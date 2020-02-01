@@ -8,10 +8,10 @@ class Triangle
  end
  
  def kind
-  
+  if side_1 + side_2
  
  end
  
- 
+ class TriangleError < StandardError
  
 end
