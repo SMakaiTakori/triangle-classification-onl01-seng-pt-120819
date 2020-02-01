@@ -17,7 +17,7 @@ class Triangle
     
     
     end
-   end
+  end
  end
  
 
@@ -26,3 +26,4 @@ class Triangle
  end
  
 
+end
