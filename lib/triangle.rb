@@ -12,11 +12,11 @@ class Triangle
     raise TriangleError
   elsif @side_1 <= 0 || @side_2 <= 0 || @side_3 <= 0
     raise TriangleError
-  # else
-  #   if 
+  else
+    if 
     
     
-  #   end
+    end
   end
  end
  
