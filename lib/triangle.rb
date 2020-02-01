@@ -23,9 +23,8 @@ class Triangle
   end
  end
  
-
- 
  class TriangleError < StandardError
+   "Triangle Inequality, try again."
  end
  
 
