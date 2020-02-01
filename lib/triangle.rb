@@ -16,10 +16,12 @@ class Triangle
     if 
     
     
-  end
+    end
+   end
  end
+ 
  
  class TriangleError < StandardError
  end
  
-end
+
